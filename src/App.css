@@ -1,0 +1,38 @@
+/*
+const themes = {
+  purple: {
+    background: "#231F42",
+    textColor: "#FFFFFF;"
+
+  },
+  pink: {
+    background: "pink",
+    textColor: "#F56B9A;"
+  },
+  white: {
+    background: "white",
+    textColor: "#FFFFFF"
+  },
+  lightgreen: {
+    background: "light-green",
+    textColor: "#37AEAB"
+  }
+}
+*/
+
+:root {
+ background-color: #231F42;
+}
+
+.container  {
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.container .row {
+  margin: 0 auto;
+}
